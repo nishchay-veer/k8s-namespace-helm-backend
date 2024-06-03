@@ -3,8 +3,4 @@ backend-svc/.env
 backend-svc/.env.example
 backend-svc/config/kubeconfig.yaml
 
-frontend-svc/.git
-frontend-svc/node_modules
-frontend-svc/.env
-
-/.gitignore
+.gitignore
